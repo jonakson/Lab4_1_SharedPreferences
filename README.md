@@ -32,7 +32,7 @@ Toast que nos avisa de que no hemos introducido ningún número en el campo de t
 
 <img src="https://dl.dropboxusercontent.com/u/52992573/PGL/Lab4/Lab4_1_SharedPreferences_005.png" width="300">
 
-Explorador en el que vemos el archivo SharedPreferences llamado "Puntuaciones.xml". Podemos descargarlo a nuestro equipo para así visualizarlo.
+Explorador en el que vemos el archivo SharedPreferences llamado "Puntuaciones.xml". Podemos descargarlo a nuestro equipo para así visualizarlo (Click en la imagen para ampliar).
 
 <img src="https://dl.dropboxusercontent.com/u/52992573/PGL/Lab4/Lab4_1_SharedPreferences_006.png" width="700">
 
